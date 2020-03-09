@@ -27,4 +27,6 @@ ERRORS FIXED:
 * Two or three indention errors on MainScreen.tscn
 * Fixed score_label by making it a var and getting rid of .text
 * Fixed going right
-* cannot go left
+** cannot go left
+* Made enemy visible on Enemy.tscn
+*

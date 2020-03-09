@@ -7,7 +7,7 @@ export var score: = 100
 
 
 func _ready() -> void:
-	set_physics_process(false)
+	set_physics_process(true)
 	_velocity.x = -speed.x
 
 
